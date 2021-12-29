@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-cn">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>LuoBlazorWasm</title>
-    <base href="/" />
+    <base href="/LuoBlazorWasm/" />
     <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link href="css/app.css" rel="stylesheet" />
     <link href="LuoBlazorWasm.styles.css" rel="stylesheet" />
@@ -51,8 +51,8 @@
     <div id="app">Loading...</div>
 
     <div id="blazor-error-ui">
-        An unhandled error has occurred.
-        <a href="" class="reload">Reload</a>
+        发生了一个未处理的错误。
+        <a href="" class="reload">重新加载</a>
         <a class="dismiss">🗙</a>
     </div>
     <script src="decode.js"></script>
@@ -61,8 +61,8 @@
     <script>
         Blazor.start({
             loadBootResource: function (type, name, defaultUri, integrity) {
-                // For framework resources, use the precompressed .br files for faster downloads
-                // This is needed only because GitHub pages doesn't natively support Brotli (or even gzip for .dll files)
+               //对于框架资源，使用预压缩的.br文件以更快地下载
+                //这是需要的，因为GitHub页面本身不支持Brotli(或甚至gzip的.dll文件)
                 if (type !== 'dotnetjs' && location.hostname !== 'localhost') {
                     return (async function () {
                         const response = await fetch(defaultUri + '.br', { cache: 'no-cache' });
