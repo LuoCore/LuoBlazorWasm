@@ -157,11 +157,15 @@
       "url": "LuoBlazorWasm.styles.css"
     },
     {
+      "hash": "sha256-KHlwQxBJI\/xSM8FF9i4pPUq4pD\/0e3RNao0ixebLKAw=",
+      "url": ".gitattributes"
+    },
+    {
       "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-L2hfZgEI8NCPgg4lIq9IAOFunoVL+8JQfiHohYBOn9s=",
+      "hash": "sha256-pdDS1f65FPldYATEk\/d1j6wgNwbPzWjPw7N+Oimpe+M=",
       "url": "404.html"
     },
     {
@@ -229,7 +233,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-YB5LeGFdZmqu7fGinfDq2ZtMMSFvfneUQy3FDhoNHq8=",
+      "hash": "sha256-NcgnEB+4a3FpUfCY1KE5alRpwYcJjDu9BL2O94Hg+f4=",
       "url": "index.html"
     },
     {
@@ -241,5 +245,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "oHoI97Ub"
+  "version": "tzGcFv96"
 };
