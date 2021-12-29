@@ -213,6 +213,10 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
+      "hash": "sha256-M8FQ1Iwes5W4pr2FqCgsWAi5Yd3mnRf73TJTKtCvPrw=",
+      "url": "decode.js"
+    },
+    {
       "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
       "url": "favicon.ico"
     },
@@ -237,5 +241,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "GdAzT+FQ"
+  "version": "R+AcQgwJ"
 };
