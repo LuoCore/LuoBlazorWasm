@@ -161,7 +161,7 @@
       "url": ".gitattributes"
     },
     {
-      "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
       "url": ".nojekyll"
     },
     {
@@ -233,7 +233,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-NcgnEB+4a3FpUfCY1KE5alRpwYcJjDu9BL2O94Hg+f4=",
+      "hash": "sha256-pnvpTin+lswX\/lpG57WSPiDXNmByoXVqBikjhT5Tl5s=",
       "url": "index.html"
     },
     {
@@ -245,5 +245,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "tzGcFv96"
+  "version": "iZVQW0nH"
 };
